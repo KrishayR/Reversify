@@ -1,2 +1,2 @@
-from reversify import ReverseText
-from reversify import ReverseVoice
+from Reversify import ReverseText
+from Reversify import ReverseVoice
